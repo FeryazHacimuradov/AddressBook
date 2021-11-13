@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Contacts\" />
+    <None Remove="Repository\" />
+    <None Remove="Repository\IRepository\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Contacts\" />
+    <Folder Include="Repository\" />
+    <Folder Include="Repository\IRepository\" />
+  </ItemGroup>
+</Project>

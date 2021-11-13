@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "AddressBook.M.P.W.C/1.0.0": {
+        "runtime": {
+          "AddressBook.M.P.W.C.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AddressBook.M.P.W.C/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
