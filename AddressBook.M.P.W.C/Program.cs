@@ -36,16 +36,16 @@ namespace AddressBook.M.P.W.C
 
                             newInfo.Id = contactService.FindId();
 
-                            Console.WriteLine("Enter the name: ");
+                            Console.WriteLine("Enter name: ");
                             newInfo.Name = Console.ReadLine();
 
-                            Console.WriteLine("Enter the surname: ");
+                            Console.WriteLine("Enter surname: ");
                             newInfo.Surname = Console.ReadLine();
 
-                            Console.WriteLine("Enter the age: ");
+                            Console.WriteLine("Enter your age: ");
                             newInfo.Age = Convert.ToByte(Console.ReadLine());
 
-                            Console.WriteLine("Enter the address: ");
+                            Console.WriteLine("Enter your address: ");
                             newInfo.Address = Console.ReadLine();
 
                             Console.WriteLine("Enter the Phone number: ");
@@ -57,7 +57,7 @@ namespace AddressBook.M.P.W.C
                             break;
 
                         case 2:
-                            Console.WriteLine("Select Id for Update: ");
+                            Console.WriteLine("Select Id for Updated: ");
 
                             foreach (var item in contactService.ShowInfo())
                             {
@@ -84,7 +84,7 @@ namespace AddressBook.M.P.W.C
 
                             contactService.Update(empId, info);
 
-                            Console.WriteLine("Successfully Updateed");
+                            Console.WriteLine("Successfully Updated");
                             Console.WriteLine();
                             break;
 

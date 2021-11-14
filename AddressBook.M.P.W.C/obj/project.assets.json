@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/faryaz/Projects/AddressBook.M.P.W.C/AddressBook.M.P.W.C/AddressBook.M.P.W.C.csproj",
+      "projectUniqueName": "/Users/faryaz/Desktop/AddressBook.M.P.W.C/AddressBook.M.P.W.C/AddressBook.M.P.W.C.csproj",
       "projectName": "AddressBook.M.P.W.C",
-      "projectPath": "/Users/faryaz/Projects/AddressBook.M.P.W.C/AddressBook.M.P.W.C/AddressBook.M.P.W.C.csproj",
+      "projectPath": "/Users/faryaz/Desktop/AddressBook.M.P.W.C/AddressBook.M.P.W.C/AddressBook.M.P.W.C.csproj",
       "packagesPath": "/Users/faryaz/.nuget/packages/",
-      "outputPath": "/Users/faryaz/Projects/AddressBook.M.P.W.C/AddressBook.M.P.W.C/obj/",
+      "outputPath": "/Users/faryaz/Desktop/AddressBook.M.P.W.C/AddressBook.M.P.W.C/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/faryaz/.config/NuGet/NuGet.Config"

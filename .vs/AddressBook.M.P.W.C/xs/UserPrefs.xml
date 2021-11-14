@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{9D86E3CF-84FA-4BDF-8CF2-8E5CE52995E9}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="AddressBook.M.P.W.C/Repository/IRepository/IContactService.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AddressBook.M.P.W.C/Program.cs">
     <Files>
-      <File FileName="AddressBook.M.P.W.C/Program.cs" Line="112" Column="1" />
+      <File FileName="AddressBook.M.P.W.C/Program.cs" Line="101" Column="68" />
       <File FileName="AddressBook.M.P.W.C/Contacts/Info.cs" Line="29" Column="46" />
       <File FileName="AddressBook.M.P.W.C/Repository/ContactService.cs" Line="11" Column="32" />
       <File FileName="AddressBook.M.P.W.C/Repository/IRepository/IContactService.cs" Line="18" Column="27" />
@@ -13,10 +13,9 @@
             <Node name="AddressBook.M.P.W.C" expanded="True">
               <Node name="Contacts" expanded="True" />
               <Node name="Repository" expanded="True">
-                <Node name="IRepository" expanded="True">
-                  <Node name="IContactService.cs" selected="True" />
-                </Node>
+                <Node name="IRepository" expanded="True" />
               </Node>
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
